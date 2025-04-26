@@ -25,8 +25,9 @@ int main()
     return 0;
 }
 
-
+```
 ## OUTPUT:
+```
 Enter first character: A
 Enter second character: B
 Enter third character: C
@@ -66,8 +67,9 @@ int main()
     }
     return 0;
 }
-
-# OUTPUT:
+```
+ OUTPUT:
+```
 Enter a value: 25
 25 is a positive number.
 
@@ -111,7 +113,9 @@ int main()
     printf("Minimum value between the two fractions is: %.2f\n", min);
     return 0;
 }
-## OUTPUT:
+```
+ OUTPUT:
+ ```
 Enter numerator and denominator of first fraction: 1 2
 Enter numerator and denominator of second fraction: 3 4
 Minimum value between the two fractions is: 0.50
@@ -156,8 +160,9 @@ int main() {
     
     return 0;
 }
-
-## OUTPUT:
+```
+ OUTPUT:
+ ```
 Enter a value: 1
 The input value is equal to 1.
 
@@ -220,8 +225,10 @@ int main()
     }
     
     return 0;
-
-## OUTPUT:
+}
+```
+OUTPUT:
+```
 Enter marks of three subjects: 70 65 80
 Total Marks = 215.00
 Percentage = 71.67
